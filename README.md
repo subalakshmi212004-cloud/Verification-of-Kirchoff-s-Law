@@ -1,0 +1,1 @@
+verification of kirchoff law
